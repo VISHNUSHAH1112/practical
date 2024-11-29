@@ -1,0 +1,207 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: white;
+}
+.gallery
+{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 20px;
+    padding-left: 25px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+
+}
+.a
+{
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+.a:hover
+{
+    position: relative;
+    top: 50px;
+    left: 100px;
+    text-decoration:underline;
+}
+.b
+{
+    position: relative;
+    top: 50px;
+    left: 150px;
+}
+.b:hover
+{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    text-decoration:underline;
+}
+.c
+{
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.c:hover
+{
+    position: relative;
+    top: 50px;
+    left: 200px;
+    text-decoration:underline;
+}
+.d
+{
+    position: relative;
+    top: 50px;
+    left: 250px;
+}
+.d:hover
+{
+    position: relative;
+    top: 50px;
+    left: 250px;
+    text-decoration:underline;
+}
+.e
+{
+    position: relative;
+    top: 50px;
+    left: 300px;
+}
+.e:hover
+{
+    position: relative;
+    top: 50px;
+    left: 300px;
+    text-decoration:underline;
+}
+.f
+{
+    position: relative;
+    top: 50px;
+    left: 350px;
+}
+.f:hover
+{
+    position: relative;
+    top: 50px;
+    left: 350px;
+    text-decoration:underline;
+    /* transition: 0.7s; */
+}
+.main
+{
+    display: flex;
+
+}
+.img1
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 125px;
+    left: 150px;
+    background-image: url(image/download.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img2
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 125px;
+    left: 180px;
+    background-image: url(image/download\ \(1\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img3
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 125px;
+    left: 220px;
+    background-image: url(image/download\ \(2\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img4
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 125px;
+    left: 265px;
+    background-image: url(image/download\ \(3\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main2
+{
+    display: flex;
+}
+.img5
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 195px;
+    left: 150px;
+    background-image: url(image/download\ \(4\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img6
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 195px;
+    left: 180px;
+    background-image: url(image/download\ \(5\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img7
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 195px;
+    left: 220px;
+    background-image: url(image/download\ \(6\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img8
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    top: 195px;
+    left: 265px;
+    background-image: url(image/download\ \(7\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
